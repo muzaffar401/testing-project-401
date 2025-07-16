@@ -11,7 +11,7 @@ It is composed of two parts:
 
 2. A Next.js UI allowing the visualization of the agent orchestration process and providing a chat interface for health and wellness planning.
 
-![Demo Screenshot](screenshot.jpg)
+![Demo Screenshot](screenshot.png)
 
 ## How to use
 
